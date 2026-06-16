@@ -1,2 +1,2 @@
-# algoritmos 2026
+# Algoritmos 2026
 
